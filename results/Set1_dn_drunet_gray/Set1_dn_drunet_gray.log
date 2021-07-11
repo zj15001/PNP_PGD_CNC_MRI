@@ -1,0 +1,6 @@
+21-07-09 16:15:13.541 : testsets\Set1
+21-07-09 16:15:17.657 : 11.png - PSNR: 30.9466 dB; SSIM: 0.8136 ; RE: 0.0899.
+21-07-09 16:15:17.657 : ------> testset_name: (Set1), Average PSNR:(30.947)dB, Average ssim : (0.814), Average re : (0.090) )
+21-07-09 16:19:43.045 : testsets\Set1
+21-07-09 16:19:50.422 : 11.png - PSNR: 32.5275 dB; SSIM: 0.8474 ; RE: 0.0749.
+21-07-09 16:19:50.423 : ------> testset_name: (Set1), Average PSNR:(32.527)dB, Average ssim : (0.847), Average re : (0.075) )

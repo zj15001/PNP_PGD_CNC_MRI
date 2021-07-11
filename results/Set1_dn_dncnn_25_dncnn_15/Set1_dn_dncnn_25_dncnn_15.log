@@ -1,0 +1,7 @@
+21-07-09 16:19:35.951 : Model path 1: model_zoo\dncnn_25.pth
+21-07-09 16:19:35.951 : Params number: 555137
+21-07-09 16:19:35.962 : Model path 2: model_zoo\dncnn_15.pth
+21-07-09 16:19:35.963 : Params number: 555137
+21-07-09 16:19:35.963 : testsets\Set1
+21-07-09 16:19:38.692 : 11.png - PSNR: 31.1804 dB; SSIM: 0.8109 ; RE: 0.0875.
+21-07-09 16:19:38.692 : ------> testset_name: (Set1), Average PSNR:(31.180)dB, Average ssim : (0.811), Average re : (0.087) )
